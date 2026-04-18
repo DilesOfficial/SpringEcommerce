@@ -4,7 +4,7 @@
 
 <br/>
 
-![E-Commerce Full Stack Showcase](/Users/dilushaeshan/.gemini/antigravity/brain/819f3177-e8e1-4b65-97ee-611b53b5b20c/ecommerce_showcase_1776534994989.webp)
+![E-Commerce Full Stack Showcase](./showcase.webp)
 *A look at the beautifully crafted React/Tailwind Frontend seamlessly consuming this Spring Boot API.*
 
 <br/>
